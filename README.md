@@ -42,8 +42,8 @@ These maps help inform safer real estate planning and disaster preparedness.
 Below is a sample output showing high flood risk zones in Chennai:
 
 
-![Flood Map Screenshot](Output_Screenshots/RedZones.png)
-![Flood Map Screenshot](Output_Screenshots/OrangeZones.png)
+![Flood Map Screenshot](OutputScreenshots/RedZones.png)
+![Flood Map Screenshot](OutputScreenshots/OrangeZones.png)
 
 
 (Interactive maps are available in the repo as `.html` files.)
