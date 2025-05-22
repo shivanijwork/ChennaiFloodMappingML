@@ -75,7 +75,9 @@ This work is based on an **unpublished research paper** authored as part of my M
 
 ## 🛡️ License
 
-This repository and its contents (excluding the paper and dataset) are licensed under:
+This repository and its contents (including code and dataset) are licensed under:
+
+© 2025 Shivani Jain
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
