@@ -1,6 +1,6 @@
 # ChennaiFloodMappingML
 
-A research project that combines **machine learning** and **spatial data** to predict and visualize flood-prone zones in Chennai, India. This work was carried out as part of my postgraduate research and is especially designed to help citizens and real estate decision-makers understand flood risks in various wards of Chennai.
+A research project that combines **machine learning** and **spatial data** to predict and visualize flood-prone zones in Chennai, India. This work was carried out as part of my postgraduate research (In Second Semester) and is especially designed to help citizens and real estate decision-makers understand flood risks in various wards of Chennai.
 
 ---
 
@@ -14,18 +14,6 @@ A research project that combines **machine learning** and **spatial data** to pr
   - Random Forest
   - Gradient Boosting
   - Deep Neural Network (DNN)
-
----
-
-## 🗂️ Project Structure
-
-| File/Folder               | Description |
-|--------------------------|-------------|
-| `Implementation.ipynb`   | ML model code and training |
-| `FloodMapRedZone.html`   | Interactive flood map (High risk) |
-| `FloodMapOrangeZone.html`| Interactive flood map (Moderate risk) |
-| `Implementation.pdf`     | Final research paper (report) |
-| `README.md`              | You're here! |
 
 ---
 
@@ -72,14 +60,3 @@ These maps help inform safer real estate planning and disaster preparedness.
 
 ---
 
-## 🙋‍♀️ Author
-
-**Shivani Jain**  
-PG Scholar (MCA), Vellore Institute of Technology, Chennai  
-[shivani.jain2023@vitstudent.ac.in](mailto:shivani.jain2023@vitstudent.ac.in)
-
----
-
-## ⭐ Star This Repo
-
-If you found this helpful or interesting, please ⭐ the repo — it motivates me to share more! 😊
