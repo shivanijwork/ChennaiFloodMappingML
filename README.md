@@ -39,6 +39,15 @@ Flood zones were visualized using **Folium** in interactive maps. You can view:
 
 These maps help inform safer real estate planning and disaster preparedness.
 
+Below is a sample output showing high flood risk zones in Chennai:
+
+
+![Flood Map Screenshot](Output_Screenshots/RedZones.png)
+![Flood Map Screenshot](Output_Screenshots/OrangeZones.png)
+
+
+(Interactive maps are available in the repo as `.html` files.)
+
 ---
 
 ## 📈 Model Performance
